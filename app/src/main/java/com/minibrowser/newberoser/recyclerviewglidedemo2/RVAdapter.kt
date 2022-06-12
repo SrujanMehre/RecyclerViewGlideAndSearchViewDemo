@@ -11,7 +11,7 @@ import java.util.*
 class RVAdapter(private val landscapeData: ArrayList<LandscapeData>) :
     RecyclerView.Adapter<RVAdapter.MyViewHolder>(), Filterable {
 
-    private val searchList = ArrayList<LandscapeData>(landscapeData)
+    private val searchList = ArrayList(landscapeData)
 
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MyViewHolder {
