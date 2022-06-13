@@ -7,7 +7,7 @@
 
         <variable
             name="landscapedata"
-            type="com.minibrowser.newberoser.recyclerviewglidedemo2.LandscapeData" />
+            type="com.minibrowser.newberoser.recyclerviewcoildemo.LandscapeData" />
 
     </data>
 

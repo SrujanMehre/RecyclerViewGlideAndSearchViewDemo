@@ -1,4 +1,4 @@
-package com.minibrowser.newberoser.recyclerviewglidedemo2
+package com.minibrowser.newberoser.recyclerviewcoildemo
 
 import android.widget.ImageView
 import androidx.databinding.BindingAdapter

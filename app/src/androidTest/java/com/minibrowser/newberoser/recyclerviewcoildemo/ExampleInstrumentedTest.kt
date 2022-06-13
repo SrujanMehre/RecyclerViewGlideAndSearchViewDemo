@@ -1,4 +1,4 @@
-package com.minibrowser.newberoser.recyclerviewglidedemo2
+package com.minibrowser.newberoser.recyclerviewcoildemo
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

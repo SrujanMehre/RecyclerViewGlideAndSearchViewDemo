@@ -1,4 +1,4 @@
-package com.minibrowser.newberoser.recyclerviewglidedemo2
+package com.minibrowser.newberoser.recyclerviewcoildemo
 
 import org.junit.Test
 

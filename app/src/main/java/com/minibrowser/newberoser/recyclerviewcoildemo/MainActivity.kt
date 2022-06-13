@@ -1,4 +1,4 @@
-package com.minibrowser.newberoser.recyclerviewglidedemo2
+package com.minibrowser.newberoser.recyclerviewcoildemo
 
 import android.annotation.SuppressLint
 import android.app.SearchManager
@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.SearchView
 import androidx.databinding.DataBindingUtil
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.minibrowser.newberoser.recyclerviewglidedemo2.databinding.ActivityMainBinding
+import com.minibrowser.newberoser.recyclerviewcoildemo.databinding.ActivityMainBinding
 
 
 class MainActivity : AppCompatActivity() {

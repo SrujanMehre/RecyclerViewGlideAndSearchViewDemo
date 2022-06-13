@@ -1,11 +1,11 @@
-package com.minibrowser.newberoser.recyclerviewglidedemo2
+package com.minibrowser.newberoser.recyclerviewcoildemo
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.Filter
 import android.widget.Filterable
 import androidx.recyclerview.widget.RecyclerView
-import com.minibrowser.newberoser.recyclerviewglidedemo2.databinding.RvListBinding
+import com.minibrowser.newberoser.recyclerviewcoildemo.databinding.RvListBinding
 import java.util.*
 
 class RVAdapter(private val landscapeData: ArrayList<LandscapeData>) :
