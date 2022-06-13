@@ -9,3 +9,4 @@ data class LandscapeData(val id: String,val url:String)
 fun loadImage(image: ImageView, imageUrl: String) {
     image.load(imageUrl)
 }
+//Image Changing Code
